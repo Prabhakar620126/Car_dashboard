@@ -112,3 +112,8 @@ This page displays a full transactional grid:
   - Understand dealer & region performance
   - Drill down to individual transactions
   - It provides both strategic insights and operational-level detail, making it effective for decision-making.
+
+# 🙌 Author  
+**PRABHAKAR KUMAR SHAHI**  
+📧 Email: prabhakar620126@gmail.com 
+🔗 GitHub: https://github.com/Prabhakar620126
