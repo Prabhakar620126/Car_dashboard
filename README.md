@@ -65,8 +65,8 @@ A high-level overview of:
 Car Sales Dashboard
 
 📷 Screenshot:
-![Summary Dashboard](<img width="966" height="545" alt="image" src="https://github.com/user-attachments/assets/8058e82a-39df-41af-a029-6714a16727a9" />
-)
+➡ Summery <img width="966" height="545" alt="image" src="https://github.com/user-attachments/assets/1525c056-d736-491c-8359-5f75fab83e17" />
+
 ### 📄 B. Detailed View
 This page displays a full transactional grid:
   - Car ID
@@ -79,8 +79,7 @@ This page displays a full transactional grid:
   - Date
 
 📷 Screenshot:
-![Detail Dashboard](<img width="1311" height="697" alt="image" src="https://github.com/user-attachments/assets/d32b835f-f6f9-401a-b640-782765c4a062" />
-)
+➡ Details <img width="1311" height="697" alt="image" src="https://github.com/user-attachments/assets/3ab3a507-2128-46c6-bd32-82be9d7a6090" />
 
 ## 📈 6. Visuals Used
 | Visual Type    | Purpose                    |
@@ -101,9 +100,9 @@ This page displays a full transactional grid:
 ### 📥 8. Download Project Files
 | File Type                           | Link                      |
 | ----------------------------------- | ------------------------- |
-| 📊 Power BI Dashboard (.pbix/.pbit) | `[Download File](https://github.com/Prabhakar620126/Car_dashboard/blob/main/car%20sales%20power%20bi.pbix )`      |
-| 📄 Problem Statement                | `[Problem Statement](https://github.com/Prabhakar620126/Car_dashboard/blob/main/Problem%20Statement.docx )`  |
-| 📁 Raw Data                         | `[financial_loan.csv](https://github.com/Prabhakar620126/Car_dashboard/blob/main/Car%20Sales.xlsx )` |
+| 📊 Power BI Dashboard (.pbix/.pbit) | [Download File](https://github.com/Prabhakar620126/Car_dashboard/blob/main/car%20sales%20power%20bi.pbix ) |
+| 📄 Problem Statement                | [Problem Statement](https://github.com/Prabhakar620126/Car_dashboard/blob/main/Problem%20Statement.docx )  |
+| 📁 Raw Data                         | [financial_loan.csv](https://github.com/Prabhakar620126/Car_dashboard/blob/main/Car%20Sales.xlsx )|
 
 ### 📝 9. Conclusion
   - This dashboard enables the car dealership to:
